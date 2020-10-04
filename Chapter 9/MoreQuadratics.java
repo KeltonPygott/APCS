@@ -1,6 +1,6 @@
 import java.util.scanner;
 
-public class Quadratics 
+public class MoreQuadratics 
 {
   public static void main (String[] args)
   {
