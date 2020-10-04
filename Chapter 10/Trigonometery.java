@@ -1,4 +1,4 @@
-public class trigonometry {
+public class Trigonometry {
     public static void main ( String[] args )
       {
         double a = Math.sin(0.5236);
